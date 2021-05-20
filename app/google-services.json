@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599969203612",
+    "project_id": "instagram---teste",
+    "storage_bucket": "instagram---teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599969203612:android:84c94dca0678a7620b3459",
+        "android_client_info": {
+          "package_name": "com.the_spartan_of_war.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599969203612-foa8j9frfourihdn2dhhtq0086desicr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.the_spartan_of_war.instagram",
+            "certificate_hash": "8150da5f8fb880460687d8446478b2042cfc17ea"
+          }
+        },
+        {
+          "client_id": "599969203612-ftd25bbtm80jhjo3oak2c6fdtgs3k83j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClcvFX70Q4FYU11N53IR2Uz__gfL0_-44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599969203612-ftd25bbtm80jhjo3oak2c6fdtgs3k83j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

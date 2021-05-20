@@ -1,0 +1,24 @@
+<resources>
+    ------------------------------------------------------------------------------------
+    - Tela de Login
+
+    <string name="app_name">Instagram</string>
+    <string name="prompt_email">Número de telefone, email ou nome de usuário</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="forgot_password">Esqueceu seus dados de login? </string>
+    <string name="subtitle_bar">----------------------------------------OU----------------------------------------</string>
+    <string name="action_sign_in_short">Entrar com o Facebook</string>
+    <string name="RegisterLogin">Não tem uma conta? Cadastre-se</string>
+
+    ------------------------------------------------------------------------------------
+
+    - Tela de Cadastro
+    <string name="RegisterName">Nome Completo</string>
+    <string name="RegisterEmail">E-mail</string>
+    <string name="RegisterPassword">Senha</string>
+    <string name="Register">Cadastrar</string>
+
+    ------------------------------------------------------------------------------------
+
+</resources>
